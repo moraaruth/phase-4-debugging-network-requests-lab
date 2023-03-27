@@ -62,12 +62,8 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
-
-- Update the number of likes for a toy
-
-  - How I debugged:
+  - Updated the toys_controller, create instance and render in json format.
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - Using destroy to delete from database.
